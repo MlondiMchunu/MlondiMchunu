@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mlondi Mchunu</h1>
-<h3 align="center">A passionate backend developer based in Johannesburg</h3>
+<h3 align="center">I do BackEnd (and occassionally FrontEnd)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mlondimchunu&label=Profile%20views&color=0e75b6&style=flat" alt="mlondimchunu" /> </p>
 
