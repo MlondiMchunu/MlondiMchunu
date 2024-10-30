@@ -5,9 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mlondimchunu" alt="mlondimchunu" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJs in detail, (Reading Node.js Design Patterns - Mario Casciaro & Luciano Mammino)**
+- 🌱 I’m currently learning **NodeJs & Ruby/Rails**
+- 🌱 I’m currently Reading **Node.js Design Patterns - Mario Casciaro & Luciano Mammino**
 
-- 👯 I’m looking to collaborate on **Cloud Native projects**
+- 👯 I’m looking to collaborate on **NodeJS & Ruby projects**
 
 - 🤝 I’m looking for help with [Uploading files using formidable in NodeJS](https://github.com/MlondiMchunu/ecommerce-app)
 
