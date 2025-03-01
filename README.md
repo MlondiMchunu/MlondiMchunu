@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with [Uploading files using formidable in NodeJS](https://github.com/MlondiMchunu/ecommerce-app)
 
-- 💬 Ask me about **Javascript, NodeJS, ReactJS, MongoDB, MySQL, ExpressJS**
+- 💬 Ask me about **Javascript, NodeJS, ExpressJS, ReactJS, MongoDB, MySQL**
 
 - 📫 How to reach me **mlondiemchunu1@gmail.com**
 
