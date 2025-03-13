@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Mlondi</h1>
-<h3 align="center">I specialise in BackEnd development</h3>
+<h3 align="center">Software Engineer living in Johannesburg, SA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mlondimchunu&label=Profile%20views&color=0e75b6&style=flat" alt="mlondimchunu" /> </p>
 
