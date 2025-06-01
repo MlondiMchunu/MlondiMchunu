@@ -24,11 +24,11 @@
 
 <h3>My GitHub Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MlondiMchunu&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MlondiMchunu&show_icons=true&theme=dark&locale=en&layout=compact" alt="MlondiMchunu" /></p>
 
 <br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=MlondiMchunu&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=MlondiMchunu&show_icons=true&theme=dark&locale=en" alt="MLondiMchunu" /></p>
 <br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MlondiMchunu&theme=dark" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MlondiMchunu&theme=dark" alt="MlondiMchunu" /></p>
 <br><br>
