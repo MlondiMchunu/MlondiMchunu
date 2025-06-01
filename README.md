@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mlondimchunu&label=Profile%20views&color=0e75b6&style=flat" alt="mlondimchunu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mlondimchunu" alt="mlondimchunu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MlondiMchunu" alt="mlondimchunu" /></a> </p>
 
 - 🌱 I’m currently working with **NodeJs, Typescript & APIs (both GraphQL & RESTful)** using **Test Driven Development** on **Microservices**
 - 🌱 I’m currently Reading **Node.js Design Patterns - Mario Casciaro & Luciano Mammino**
