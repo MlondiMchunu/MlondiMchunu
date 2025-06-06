@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MlondiMchunu" alt="mlondimchunu" /></a> </p>
 
 - 🌱 I’m currently working with **NodeJs, Typescript & APIs (both GraphQL & RESTful)** using **Test Driven Development** on **Microservices**
-- 🌱 I’m currently Reading **Node.js Design Patterns - Mario Casciaro & Luciano Mammino**
+- 🌱 I’m currently Learning Golang
 
 - 👯 I’m looking to collaborate on **NodeJS (Typescript) projects**
 
