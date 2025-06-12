@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently working with **NodeJs, Typescript & APIs (both GraphQL & RESTful)** using **Test Driven Development** on **Microservices**
   
-- 🌱 I’m currently Learning Golang
+- 🌱 I’m currently Learning **Golang**
 
-- 👯 I’m looking to collaborate on **NodeJS (Typescript) projects**
+- 👯 I’m looking to collaborate on **NodeJS (Typescript)** projects
 
 - 📫 How to reach me **mlondiemchunu1@gmail.com**
 
