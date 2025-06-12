@@ -1,18 +1,14 @@
 <h1 align="center">Hello World 👋, I'm Mlondi</h1>
 <h3 align="center">Software Engineer living in Johannesburg, SA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mlondimchunu&label=Profile%20views&color=0e75b6&style=flat" alt="mlondimchunu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MlondiMchunu" alt="mlondimchunu" /></a> </p>
 
 - 🌱 I’m currently working with **NodeJs, Typescript & APIs (both GraphQL & RESTful)** using **Test Driven Development** on **Microservices**
+  
 - 🌱 I’m currently Learning Golang
 
 - 👯 I’m looking to collaborate on **NodeJS (Typescript) projects**
-
-- 🤝 I’m looking for help with [Uploading files using formidable in NodeJS](https://github.com/MlondiMchunu/ecommerce-app)
-
-- 💬 Ask me about **Javascript, NodeJS, ExpressJS, ReactJS, MongoDB, MySQL** 
 
 - 📫 How to reach me **mlondiemchunu1@gmail.com**
 
