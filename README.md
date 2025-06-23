@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently Learning **Golang**
 
-- 👯 I’m looking to collaborate on **NodeJS (Typescript)** projects
+- 👯 I’m looking to collaborate on **NodeJS (Typescript) and Go** projects
 
 - 📫 How to reach me **mlondiemchunu1@gmail.com**
 
