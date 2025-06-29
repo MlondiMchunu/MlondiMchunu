@@ -1,5 +1,5 @@
-<h1 align="center">Hello World 👋, I'm Mlondi</h1>
-<h3 align="center">Software Engineer living in Johannesburg, SA</h3>
+<h3 align="center"> Hi, I'm Mlondi</h3>
+<h5 align="center">Welcome to my Github</h5>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MlondiMchunu" alt="mlondimchunu" /></a> </p>
