@@ -1,16 +1,12 @@
-<h3 align="center"> Hi, I'm Mlondi</h3>
-<h5 align="center">Welcome to my Github</h5>
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MlondiMchunu" alt="mlondimchunu" /></a> </p>
 
-- 🌱 I’m currently working with **NodeJs, Typescript & APIs (both GraphQL & RESTful)** using **Test Driven Development** on **Microservices**
+- Currently working with **NodeJs, Typescript & APIs (both GraphQL & RESTful)** using **Test Driven Development** on **Microservices**
   
-- 🌱 I’m currently Learning **Golang**
+- Currently Learning **Golang**
 
-- 👯 I’m looking to collaborate on **NodeJS (Typescript) and Go** projects
+- I’m looking to collaborate on **NodeJS (Typescript) and Go** projects
 
-- 📫 How to reach me **mlondiemchunu1@gmail.com**
+- Reach me at : **mlondiemchunu1@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
