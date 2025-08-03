@@ -48,6 +48,5 @@
 
 <hr width="45%" >
 
-<h3>My GitHub Stats</h3>
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MlondiMchunu&show_icons=true&theme=dark&locale=en&layout=compact" alt="MlondiMchunu" /> </p>
 <br><br>
