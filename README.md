@@ -1,7 +1,10 @@
 <p style="font-size: 10px;">
 - Currently working with <strong>NodeJs, Typescript & APIs (both GraphQL & RESTful)</strong> using <strong>Test Driven Development</strong> on <strong>Microservices</strong>
+
 - Currently Learning <strong>Golang</strong>
+
 - I'm looking to collaborate on <strong>NodeJS (Typescript) and Go</strong> projects
+
 - Reach me at : <strong>mlondiemchunu1@gmail.com</strong>
 </p>
 
