@@ -1,11 +1,12 @@
-
-- Currently working with **NodeJs, Typescript & APIs (both GraphQL & RESTful)** using **Test Driven Development** on **Microservices**
+<p style="font-size: 16px;">
+- Currently working with <strong>NodeJs, Typescript & APIs (both GraphQL & RESTful)</strong> using <strong>Test Driven Development</strong> on <strong>Microservices</strong>
   
-- Currently Learning **Golang**
+- Currently Learning <strong>Golang</strong>
 
-- I’m looking to collaborate on **NodeJS (Typescript) and Go** projects
+- I'm looking to collaborate on <strong>NodeJS (Typescript) and Go</strong> projects
 
-- Reach me at : **mlondiemchunu1@gmail.com**
+- Reach me at : <strong>mlondiemchunu1@gmail.com</strong>
+</p>
 
 <hr width="45%" >
 
