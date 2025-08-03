@@ -1,4 +1,5 @@
 <p style="font-size: 10px;">
+  
 - Currently working with <strong>NodeJs, Typescript & APIs (both GraphQL & RESTful)</strong> using <strong>Test Driven Development</strong> on <strong>Microservices</strong>
 
 - Currently Learning <strong>Golang</strong>
