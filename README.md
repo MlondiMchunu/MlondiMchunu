@@ -1,8 +1,6 @@
 <p style="font-size: 10px;">
   
-- Currently working with <strong>NodeJs, Typescript & APIs (both GraphQL & RESTful)</strong> using <strong>Test Driven Development</strong> on <strong>Microservices</strong>
-
-- Currently Learning <strong>Golang</strong>
+- Currently working with <strong> GO, NodeJs (Typescript) & APIs (both GraphQL & RESTful)</strong> using <strong>Test Driven Development</strong> on <strong>Microservices</strong>
 
 - I'm looking to collaborate on <strong>NodeJS (Typescript) and Go</strong> projects
 
