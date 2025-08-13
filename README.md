@@ -30,6 +30,7 @@
 <a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="restapi" width="40" height="40"/> </a>
 <a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="socketio" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/API/Webhooks" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/webhooks.svg" alt="webhooks" width="40" height="40"/></a>
+<a href="https://grpc.io/" target="_blank" rel="noreferrer"> <img src="https://grpc.io/img/logos/grpc-icon-color.png" alt="grpc" width="40" height="40"/> </a>
 </p>
 
 <p align="left"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
