@@ -1,6 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MlondiMchunu&color=blue&style=flat-square)
 ![Experience](https://img.shields.io/badge/Experience-5%20years%20%7C%20Backend%20Dev-success?style=flat-square)
-![Years Coding](https://img.shields.io/badge/Coding%20Since-2016-blue?style=flat-square)
+
+
 
 <p style="font-size: 10px;">
 - I'm looking to collaborate on <strong>NodeJS (TS/JS) and Go</strong> projects
