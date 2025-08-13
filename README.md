@@ -1,3 +1,10 @@
+
+![Profile Views](https://komarev.com/ghpvc/?username=MlondiMchunu&color=blue&style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-5%4years%20%7C%20Backend%20Dev-success?style=for-the-badge)
+![Years Coding](https://img.shields.io/badge/Coding%20Since-2018-blue?style=for-the-badge)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MlondiMchunu&show_icons=true&theme=dracula)](https://github.com/MlondiMchunu)
+
 <p style="font-size: 10px;">
 - I'm looking to collaborate on <strong>NodeJS (TS/JS) and Go</strong> projects
 
